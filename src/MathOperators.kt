@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
     var sum: Int
     sum = number1 + number2
 
-    println("The sum is " + sum)
+    println("The sum is $sum")
 }
